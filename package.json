@@ -1,0 +1,7 @@
+{
+  "name": "Vanilla-JavaScript-Calculator",
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
