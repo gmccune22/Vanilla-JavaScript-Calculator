@@ -1,5 +1,10 @@
 {
   "name": "Vanilla-JavaScript-Calculator",
+  "description": "Creates simple HTML, CSS, JS calculator",
+  "main": "script.js",
+  "scripts":{
+    "test": "jest test.script.js"
+  },
   "packageManager": "yarn@3.6.3",
   "devDependencies": {
     "jest": "^29.6.4"
